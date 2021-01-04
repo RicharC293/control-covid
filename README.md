@@ -1,6 +1,12 @@
 # covid
 
-A new Flutter project.
+Proyecto desarrollado en Flutter que le permite registrar los casos de covid en una localidad. 
+El backend utilizado es firebase.
+
+
+![alt text](https://github.com/RicharC293/shoes-shop-ui/blob/main/assets/images/8abad5101293127.5f1b3cae566e8.jpeg)
+![alt text](https://github.com/RicharC293/shoes-shop-ui/blob/main/assets/images/2f7f52101293127.5f1b3cae55c18.jpeg)
+![alt text](https://github.com/RicharC293/shoes-shop-ui/blob/main/assets/images/2b9f9f101293127.5f1b3cae56216.jpeg)
 
 ## Getting Started
 
